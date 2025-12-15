@@ -1,3 +1,16 @@
 {
-  "DATA": {}
+  "DATA": {
+    "https://archive.org/download/ps4_db_CUSA27430_1765589670/Jogo-CUSA27430.pkg": {
+      "name": "Skul: The Hero Slayer",
+      "region": "USA",
+      "size": 1932735283,
+      "cover_url": "https://archive.org/download/ps4_db_CUSA27430_1765589670/-CapaCUSA27430.jpg"
+    },
+    "https://archive.org/download/gtav_ps4/gtav_base.pkg": {
+      "name": "Grand Theft Auto V",
+      "region": "USA",
+      "size": 48318382080,
+      "cover_url": "https://image.api.playstation.com/vulcan/img/gta5.png"
+    }
+  }
 }
